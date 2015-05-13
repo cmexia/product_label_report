@@ -21,7 +21,7 @@ msgstr "Etiqueta Grande"
 
 #: model:ir.actions.report.xml,name:product_label_report.label_report_small
 msgid "Product Label Report Small"
-msgstr "Etiqueta mini"
+msgstr "Etiqueta Mini"
 
 #. module: product_label_report
 #: report:label_report_large:0
