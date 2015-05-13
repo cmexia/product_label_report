@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <openerp>
     <data>
-        <report id="label_report_large" model="product.product" name="label_report_large" rml="addons/label_report/report/label_report_large.rml" string="Product Label Report" auto="False" header="False" menu="True"/>
-         <report id="label_report_small" model="product.product" name="label_report_small" rml="addons/label_report/report/label_report_small.rml" string="Product Label Report Small" auto="False" header="False" menu="True"/>
+        <report id="label_report_large" model="product.product" name="label_report_large" rml="addons/product_label_report/report/label_report_large.rml" string="Product Label Report" auto="False" header="False" menu="True"/>
+         <report id="label_report_small" model="product.product" name="label_report_small" rml="addons/product_label_report/report/label_report_small.rml" string="Product Label Report Small" auto="False" header="False" menu="True"/>
     </data>
 </openerp>
