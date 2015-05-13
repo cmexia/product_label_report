@@ -32,9 +32,9 @@
                 <!--TABLA de PRODUCT-->
     <blockTable colWidths="290.0" style="TERMSTABLEGREY">
           <tr><td><para style="ITEMSRIGHT">[[o.name or '']]</para></td></tr>
-          <tr><td><para style="ITEMSLEFT">Ref. Interna: [[o.default_code or '']]</para></td></tr>
-          <tr><td><para style="ITEMSLEFT">Categoria: [[o.categ_id.name or '']]</para></td></tr>
-          <tr><td><para style="ITEMSLEFT"> Unidad de Medida: [[o.uom_id.name or '']]</para></td></tr>         
+          <tr><td><para style="ITEMSLEFT">Default code: [[o.default_code or '']]</para></td></tr>
+          <tr><td><para style="ITEMSLEFT">Category: [[o.categ_id.name or '']]</para></td></tr>
+          <tr><td><para style="ITEMSLEFT">Prod unit of measure: [[o.uom_id.name or '']]</para></td></tr>         
     </blockTable>
     <barCode code="code128" style="BARCODE" quiet="0" barWidth="1" barHeight="23">[[o.ean13]]</barCode>
 <!-- <barCode code="ean13" code128  style="my estilo personalizado" quiet="0"zona quieta para scarcode barWidth="1" height="10"barHeight="45">[[o.ean13]]</barCode> -->
