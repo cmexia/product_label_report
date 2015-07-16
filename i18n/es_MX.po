@@ -23,6 +23,10 @@ msgstr "Etiqueta Grande"
 msgid "Product Label Report Small"
 msgstr "Etiqueta Mini"
 
+#: model:ir.actions.report.xml,name:product_label_report.label_report_medium
+msgid "Product Label Report Medium"
+msgstr "Etiqueta Mediana"
+
 #. module: product_label_report
 #: report:label_report_large:0
 msgid "Default code:"

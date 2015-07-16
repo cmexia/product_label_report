@@ -33,7 +33,7 @@ This module will generate a:
 Product Label report in pdf format with sizes compatible with termic printers
         NOTE: You may configure your printer paper size to:
                 - w: 100.00mm h:60.00mm (Large)
-                - w: 64.00mm h:20.00mm (Medium)
+                - w: 63.00mm h:25.00mm (Medium)
                 - w: 37.00mm h:25.00mm  (Small)
 Works with multiple selection of rows.
 If you want your custom sticker, you can base your code with this one.
