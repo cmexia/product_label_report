@@ -26,3 +26,4 @@
 
 
 from . import report
+import product

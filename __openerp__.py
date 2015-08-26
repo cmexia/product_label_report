@@ -48,6 +48,9 @@ If you want your custom sticker, you can base your code with this one.
     "data": [
         "report/label.xml",       
     ], 
+    "update_xml": [
+        "product_view.xml"
+    ],
     "test": [], 
     "js": [], 
     "css": [], 
