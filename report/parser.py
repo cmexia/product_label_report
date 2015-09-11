@@ -56,5 +56,26 @@ report_sxw.report_sxw(
     parser=label_parser,
     header=False
     )
+report_sxw.report_sxw(
+    'report.info_label_small',
+    'product.product',
+    'addons/label_report/report/info_label_small.rml',
+    parser=label_parser,
+    header=False
+    )
+report_sxw.report_sxw(
+    'report.info_label_medium',
+    'product.product',
+    'addons/label_report/report/info_label_medium.rml',
+    parser=label_parser,
+    header=False
+    )
+report_sxw.report_sxw(
+    'report.info_label_large',
+    'product.product',
+    'addons/label_report/report/info_label_large.rml',
+    parser=label_parser,
+    header=False
+    )
 
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
