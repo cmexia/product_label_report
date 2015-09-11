@@ -12,6 +12,8 @@ class product_label_info(osv.osv):
 		'risk_advices': fields.text('Riesgos de manejo', size=200),
 		'handle': fields.text('Instrucciones de uso', size=200),
 		'electric_info': fields.text('Caracteristicas electricas', size=200),
+		'label_size': fields.selection(
+            (('Grande','Grande'),('Mediana','Mediana'),('Chica','Chica')),'Tamaño Etiqueta'),
 	}
 product_label_info()
 
