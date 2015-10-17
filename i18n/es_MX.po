@@ -27,6 +27,18 @@ msgstr "Etiqueta Mini"
 msgid "Product Label Report Medium"
 msgstr "Etiqueta Mediana"
 
+#: model:ir.actions.report.xml,name:product_label_report.info_label_small
+msgid "Info Label small"
+msgstr "Etiqueta importacion pequeña"
+
+#: model:ir.actions.report.xml,name:product_label_report.info_label_medium
+msgid "Info Label medium"
+msgstr "Etiqueta importacion mediana"
+
+#: model:ir.actions.report.xml,name:product_label_report.info_label_large
+msgid "Info Label large"
+msgstr "Etiqueta importacion grande"
+
 #. module: product_label_report
 #: report:label_report_large:0
 msgid "Default code:"
