@@ -30,7 +30,7 @@
 <section>
                 <!--codigo-->
   <para style="ITEMSLEFT" fontSize="5">[[o.name]]</para>
-  <para style="ITEMSLEFT">[[o.categ_id.name]]-[[o.importancia_property]]</para> 
+  <para style="ITEMSLEFT" fontSize="6" leading="5.5">[[o.categ_id.name]]-[[o.importancia_property]]</para> 
   <para style="ITEMSLEFT">[[o.default_code]]</para>
   <para style="ITEMSLEFT" spaceBefore="5"></para>
     <barCode code="Code128" style="BARCODE" quiet="0" barWidth="1" barHeight="18">[[o.ean13]]</barCode>
