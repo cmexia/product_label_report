@@ -19,7 +19,7 @@
     </blockTableStyle>  
 
   <paraStyle name="ITEMSRIGHT" alignment="RIGHT" fontName="Helvetica-Bold" fontSize="7.0" leading="8" spaceBefore="2.0" textColor="black"/>
-  <paraStyle name="ITEMSLEFT"  alignment="LEFT"  fontName="Helvetica-Bold" fontSize="10.0" leading="4" spaceBefore="5.0" textColor="black"/>
+  <paraStyle name="ITEMSLEFT"  alignment="LEFT"  fontName="Helvetica-Bold" fontSize="10.0" leading="8" spaceBefore="5.0" textColor="black"/>
   <paraStyle name="BARCODE" alignment="RIGHT" lenght="8" spaceBefore="5.0" leading="4"/>
   <paraStyle name="ITEMPARTE" alignment="RIGHT" fontName="Helvetica-Bold" fontSize="18.0" leading="4" spaceBefore="5.0"
     textColor="black"/>
